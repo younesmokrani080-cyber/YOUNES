@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LuxePro DZ: Premium Algerian E-commerce",
+  "description": "A premium, clean, fast, and responsive e-commerce platform designed for the Algerian market.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
